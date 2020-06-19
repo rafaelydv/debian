@@ -5,6 +5,7 @@ apt install terminator \
 	    fusesmb \
 	    gvfs-fuse \
 	    gvfs-backends \
+	    pavucontrol \
 	    xfce4-whiskermenu-plugin \
 	    xfce4-taskmanager \
 	    xfce4-screenshooter\

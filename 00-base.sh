@@ -10,4 +10,5 @@ apt install xorg \
 # 	    gir1.2-nma-1.0 \
 # 	    libnma-dev \
 # 	    libnma0 \
+#	    network-manager \
 # 	    network-manager-gnome

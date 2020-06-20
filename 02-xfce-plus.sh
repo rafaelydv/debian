@@ -12,5 +12,6 @@ apt install terminator \
 	    xfce4-pulseaudio-plugin \
 	    xfce4-power-manager \
 	    xfce4-notes \
+	    xfce4-datetime-plugin \
 	    lightdm-gtk-greeter-settings \
 	    thunar-archive-plugin

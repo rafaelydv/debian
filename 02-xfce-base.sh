@@ -16,6 +16,7 @@ apt install xorg \
 	    xfce4-notes \
 	    terminator \
 	    xdg-utils \
+	    xdg-user-dirs \
 	    pcmanfm \
 	    gvfs-fuse \
 	    gvfs-backends \

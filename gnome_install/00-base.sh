@@ -14,5 +14,7 @@ apt install htop \
 	    	p7zip-full \
 	    	rar \
 	    	unrar \
+	    	zip \
+		    unzip \
 	    	xarchiver \
 	    	xorg

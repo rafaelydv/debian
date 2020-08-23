@@ -1,8 +1,6 @@
 #!/bin/bash
 #
 apt install gparted \
-		    nmap \
-		    netdiscover \
 		    libreoffice-writer \
 		    libreoffice-calc \
 		    libreoffice-impress \
@@ -10,10 +8,6 @@ apt install gparted \
 		    kolourpaint \
 		    keepass2 \
 		    alien \
-		    zip \
-		    unzip \
 		    gufw \
 		    gdebi \
-		    net-tools \
-		    traceroute \
 		    vlc

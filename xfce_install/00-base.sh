@@ -5,6 +5,5 @@ apt install htop \
 	    	apt-transport-https \
 	    	wget \
 	    	screenfetch \
-# Uncoment for not install Network Manager
-#	    	network-manager \
-# 	    	network-manager-gnome
+	    	network-manager \
+ 	    	network-manager-gnome

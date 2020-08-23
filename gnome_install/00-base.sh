@@ -5,6 +5,14 @@ apt install htop \
 	    	apt-transport-https \
 	    	wget \
 	    	screenfetch \
-# Uncoment for not install Network Manager
-#	    	network-manager \
-# 	    	network-manager-gnome
+	    	network-manager \
+ 	    	network-manager-gnome \
+ 	    	xdg-utils \
+	    	xdg-user-dirs \
+	    	gvfs-fuse \
+	    	gvfs-backends \
+	    	p7zip-full \
+	    	rar \
+	    	unrar \
+	    	xarchiver \
+	    	xorg

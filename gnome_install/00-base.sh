@@ -15,6 +15,6 @@ apt install htop \
 	    	rar \
 	    	unrar \
 	    	zip \
-		    unzip \
+		unzip \
 	    	xarchiver \
 	    	xorg

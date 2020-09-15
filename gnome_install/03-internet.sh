@@ -8,4 +8,8 @@ apt install firefox-esr \
 	    	net-tools \
 	    	traceroute \
 	    	nmap \
-		    netdiscover
+	    	wget \
+	    	network-manager \
+ 	    	network-manager-gnome \
+ 	    	apt-transport-https \
+		netdiscover

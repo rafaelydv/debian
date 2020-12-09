@@ -17,14 +17,15 @@ apt install xorg \
 	    	terminator \
 	    	xdg-utils \
 	    	xdg-user-dirs \
-		    pcmanfm \
-		    gvfs-fuse \
-		    gvfs-backends \
-		    lightdm-gtk-greeter \
-		    lightdm-gtk-greeter-settings \
-		    p7zip-full \
-		    zip \
-			unzip \
-		    rar \
-		    unrar \
-		    xarchiver
+                pcmanfm \
+	        gvfs-fuse \
+	        gvfs-backends \
+	        lightdm-gtk-greeter \
+	        lightdm-gtk-greeter-settings \
+	        p7zip-full \
+	        zip \
+	 	unzip \
+	        rar \
+	        unrar \
+	        xarchiver \
+		ttf-mscorefonts-installer

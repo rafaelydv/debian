@@ -5,5 +5,6 @@ apt install htop \
 	    	apt-transport-https \
 	    	wget \
 	    	screenfetch \
+		apt-listbugs \
 	    	network-manager \
  	    	network-manager-gnome

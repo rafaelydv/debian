@@ -1,7 +1,7 @@
 #!/bin/bash
 # Configuração do bashrc do root
 # Update alias
-echo 'alias update="apt update && apt full-upgrade -y && apt autoremove -y && apt clean -y && apt autoclean -y"' >> /root/.bashrc
+echo 'alias update="apt update && apt upgrade -y && apt autoremove -y && apt clean -y && apt autoclean -y"' >> /root/.bashrc
 # Clean history alias for root
 echo 'alias sair="cat /dev/null > ~/.bash_history && history -c && exit"' >> /root/.bashrc
 # Clean history alias for user ryd

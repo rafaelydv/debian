@@ -1,4 +1,4 @@
 #!/bin/bash
 
-apt install systemconfig-printer \
-	    	blueman
+#apt install systemconfig-printer \
+#	    	blueman

@@ -1,2 +1,2 @@
-# debian_xfce_install
-Scripts de instalação customizada do Xfce no Debian.
+# Debian Desktop Environment custom install
+Scripts para instalação customizada dos ambientes de desktop Gnome, KDE e Xfce.

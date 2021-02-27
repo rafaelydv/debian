@@ -1,11 +1,11 @@
 #!/bin/bash
 #
 apt install firefox-esr \
-	    	firefox-esr-l10n-pt-br \
-	    	transmission \
-	    	transmission-gtk \
-	    	filezilla \
-	    	net-tools \
-		    traceroute \
-	    	nmap \
-		    netdiscover
+	    firefox-esr-l10n-pt-br \
+	    transmission \
+	    transmission-gtk \
+	    filezilla \
+	    net-tools \
+	    traceroute \
+	    nmap \
+	    netdiscover

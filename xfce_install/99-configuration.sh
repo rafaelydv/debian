@@ -8,3 +8,5 @@ echo 'alias sair="cat /dev/null > ~/.bash_history && history -c && exit"' >> /ro
 echo 'alias sair="cat /dev/null > ~/.bash_history && history -c && exit"' >> /home/ryd/.bashrc
 # SU alias for root
 echo 'alias su="sudo su -"' >> /home/ryd/.bashrc
+# Alias for list all services
+echo 'alias allservices="systemctl list-unit-files --type service --all"' >> /home/ryd/.bashrc

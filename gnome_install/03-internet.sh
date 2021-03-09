@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #
 apt install firefox-esr \
 	    firefox-esr-l10n-pt-br \

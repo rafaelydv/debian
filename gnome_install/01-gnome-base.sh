@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Gnome custom install
 echo "GDM install!"
 apt install --no-install-recommends --no-install-suggests gdm3 -y

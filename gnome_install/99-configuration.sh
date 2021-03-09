@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Configuração do bashrc do root
 # Update alias
 echo 'alias update="apt update && apt upgrade"' >> /root/.bashrc

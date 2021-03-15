@@ -12,5 +12,5 @@ echo
 echo "Gnome shell extensions install!"
 apt install --no-install-recommends --no-install-suggests gnome-shell-extensions -y
 echo
-echo "Gnome tweak install!"
-apt install gnome-tweak-tool -y
+echo "Gnome tweak and screenshot install!"
+apt install gnome-tweak-tool gnome-screenshot -y

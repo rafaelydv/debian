@@ -13,4 +13,5 @@ apt install htop \
 	    zip \
 	    unzip \
 	    xarchiver \
+#	    btrfs-progs \
 	    xorg

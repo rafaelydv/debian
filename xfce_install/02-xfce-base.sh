@@ -28,4 +28,6 @@ apt install xorg \
 	    rar \
 	    unrar \
 	    xarchiver \
-	    ttf-mscorefonts-installer
+	    ttf-mscorefonts-installer \
+	    network-manager \
+ 	    network-manager-gnome

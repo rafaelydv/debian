@@ -6,5 +6,4 @@ apt install htop \
 	    wget \
 	    screenfetch \
 	    apt-listbugs \
-	    network-manager \
- 	    network-manager-gnome
+	    bash-completion

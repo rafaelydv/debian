@@ -10,3 +10,5 @@ echo 'alias sair="cat /dev/null > ~/.bash_history && history -c && exit"' >> /ho
 echo 'alias su="sudo su -"' >> /home/ryd/.bashrc
 # Alias for list all services
 echo 'alias allservices="systemctl list-unit-files --type service --all"' >> /home/ryd/.bashrc
+# Lightdm disable hide users
+sed -i "s/#greeter-hide-users=false/greeter-hide-users=false/" /etc/lightdm/lightdm.conf

@@ -6,4 +6,5 @@ apt install htop \
 	    wget \
 	    screenfetch \
 	    apt-listbugs \
+	    cifs-utils \
 	    bash-completion

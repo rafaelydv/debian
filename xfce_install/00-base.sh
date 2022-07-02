@@ -7,4 +7,5 @@ apt install htop \
 	    screenfetch \
 	    apt-listbugs \
 	    cifs-utils \
-	    bash-completion
+	    bash-completion \
+	    cloc

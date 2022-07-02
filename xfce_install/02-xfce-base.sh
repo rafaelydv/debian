@@ -13,8 +13,7 @@ apt install xorg \
 	    xfce4-screenshooter\
 	    xfce4-pulseaudio-plugin \
 	    xfce4-power-manager \
-	    xfce4-notes \
-	    terminator \
+	    xfce4-terminal \
 	    xdg-utils \
 	    xdg-user-dirs \
             pcmanfm \
@@ -28,6 +27,6 @@ apt install xorg \
 	    rar \
 	    unrar \
 	    xarchiver \
-	    ttf-mscorefonts-installer \
-	    network-manager \
- 	    network-manager-gnome
+	    ttf-mscorefonts-installer
+#	    network-manager \
+# 	    network-manager-gnome

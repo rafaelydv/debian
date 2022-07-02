@@ -8,4 +8,5 @@ apt install htop \
 	    apt-listbugs \
 	    cifs-utils \
 	    bash-completion \
+	    bridge-utils \
 	    cloc

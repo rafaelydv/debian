@@ -19,8 +19,6 @@ apt install xorg \
             pcmanfm \
 	    gvfs-fuse \
 	    gvfs-backends \
-	    lightdm-gtk-greeter \
-	    lightdm-gtk-greeter-settings \
 	    p7zip-full \
 	    zip \
 	    unzip \

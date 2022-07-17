@@ -13,4 +13,5 @@ apt install htop \
 	    exfatprogs \
 	    btrfs-progs \
 	    ntfs-3g \
+	    lvm2 \
 	    deborphan

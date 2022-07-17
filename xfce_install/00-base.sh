@@ -9,4 +9,8 @@ apt install htop \
 	    cifs-utils \
 	    bash-completion \
 	    bridge-utils \
-	    cloc
+	    cloc \
+	    exfatprogs \
+	    btrfs-progs \
+	    ntfs-3g \
+	    deborphan

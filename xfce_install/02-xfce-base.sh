@@ -16,7 +16,7 @@ apt install xorg \
 	    xfce4-terminal \
 	    xdg-utils \
 	    xdg-user-dirs \
-            pcmanfm \
+            thunar \
 	    gvfs-fuse \
 	    gvfs-backends \
 	    p7zip-full \

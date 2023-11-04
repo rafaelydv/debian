@@ -17,6 +17,7 @@ apt install xorg \
 	    xdg-utils \
 	    xdg-user-dirs \
             thunar \
+	    cpu-x \
 	    gvfs-fuse \
 	    gvfs-backends \
 	    p7zip-full \

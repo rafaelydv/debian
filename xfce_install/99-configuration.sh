@@ -12,7 +12,7 @@ echo 'alias allservices="systemctl list-unit-files --type service --all"' >> /ro
 # Clean history alias for user ryd
 echo 'alias sair="cat /dev/null > ~/.bash_history && history -c && exit"' >> /home/ryd/.bashrc
 # SU alias for root
-echo 'alias su="su -"' >> /home/ryd/.bashrc
+# echo 'alias su="su -"' >> /home/ryd/.bashrc
 #
 # Configuração da tela de login do lightdm
 # Lightdm disable hide users

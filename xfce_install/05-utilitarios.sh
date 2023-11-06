@@ -10,6 +10,8 @@ apt install gparted \
 	    gufw \
 	    gdebi \
 	    geany \
+	    galculator \
+            gnome-paint \
 	    mousepad \
 	    timeshift \
 	    vlc

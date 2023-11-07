@@ -16,6 +16,7 @@ apt install xorg \
 	    xfce4-terminal \
 	    xdg-utils \
 	    xdg-user-dirs \
+	    ristretto \
             thunar \
 	    cpu-x \
 	    gvfs-fuse \

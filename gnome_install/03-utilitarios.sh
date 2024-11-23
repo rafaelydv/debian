@@ -15,4 +15,5 @@ apt install gparted \
 	    gnome-text-editor \
 	    mousepad \
 	    timeshift \
+	    asunder \
 	    vlc
